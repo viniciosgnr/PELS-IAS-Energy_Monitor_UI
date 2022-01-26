@@ -27,8 +27,8 @@
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/react-datta-able.git
-$ cd react-datta-able
+$ git clone https://github.com/viniciosgnr/PELS-IAS-Energy_Monitor_UI.git
+$ cd PELS-IAS-Energy_Monitor_UI
 ```
 
 > Start the app in Docker
@@ -63,9 +63,8 @@ To use the product Node JS (>= 12.x) is required and GIT to clone/download the p
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/app-generator/react-datta-able.git
-$ cd react-datta-able
-```
+$ git clone https://github.com/viniciosgnr/PELS-IAS-Energy_Monitor_UI
+$ cd PELS-IAS-Energy_Monitor_UI
 
 <br >
 
