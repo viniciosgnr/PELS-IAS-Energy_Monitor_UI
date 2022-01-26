@@ -60,7 +60,7 @@ The React UI starts on port `3000` and expects an API server on port `5000` (sav
 
 To use the product Node JS (>= 12.x) is required and GIT to clone/download the project from the public repository.
 
-**Step #1** - Clone the project
+**Step #1** - Clone the project ;)
 
 ```bash
 $ git clone https://github.com/viniciosgnr/PELS-IAS-Energy_Monitor_UI
